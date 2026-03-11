@@ -4,3 +4,4 @@ primera mod
 otra modificaciongit
 
 4 mod 
+creada rama 1 tar1
